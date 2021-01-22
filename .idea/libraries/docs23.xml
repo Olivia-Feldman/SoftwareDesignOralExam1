@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="docs2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/S5_Scoreboard_Hard/docs/package-search-index.zip!/" />
+      <root url="jar://$PROJECT_DIR$/S5_Scoreboard_Hard/docs/type-search-index.zip!/" />
+      <root url="jar://$PROJECT_DIR$/S5_Scoreboard_Hard/docs/member-search-index.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
